@@ -1,3 +1,6 @@
+Axios: Axios is used to communicate with the backend and it also supports the Promise API that is native to JS ES6.  
+It is a library which is used to make requests to an API, return data from the API, and then do things with that data in our React application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
